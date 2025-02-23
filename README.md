@@ -93,7 +93,7 @@ KVO stands for Key-Value Observing and allows a controller or class to observe c
 13. Core Data
 
 ```
-What is **NSFetchRequest**?
+What is NSFetchRequest?
 NSFetchRequest is the class responsible for fetching from Core Data. Fetch requests are both powerful and flexible. You can use fetch requests to fetch a set of objects meeting the provided criteria, individual values and more.
 
 Explain **NSPersistentContainer**
